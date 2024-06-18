@@ -1,4 +1,4 @@
-# ADAS
+# VisionDrive : ADAS
 
 
 ## Table of Contents
@@ -125,7 +125,7 @@ Overall, using this ADAS makes it way more convenient for the driver to observe 
 To run the project locally, follow the following steps.
 1. Clone the repository.
   ```
-  
+  https://github.com/AshishSingh08/ADAS.git
   ```
 2. See how the components work individually.
   - Lane Detection
